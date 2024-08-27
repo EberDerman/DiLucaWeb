@@ -10,12 +10,12 @@
 
 
 
+  <main class="inicio"> 
+    
+  </main>
 
-    <img id="inicio" class="inicio" src="./assets/images/BROCHURE DI LUCA.png" alt="Diluca" style="background-color: blue;">
 
-
- 
-  <?php include 'php/footer.php'; ?>
+  <?php include './php/footer.php'; ?>
 
 
 </body>

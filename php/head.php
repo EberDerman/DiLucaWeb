@@ -22,7 +22,7 @@
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <!-- Main CSS File -->
   <link href="assets/stylesheets/styles.css" rel="stylesheet">
-  <link href="assets/stylesheets/paginas.css" rel="stylesheet">
+ 
 
 
 </head>

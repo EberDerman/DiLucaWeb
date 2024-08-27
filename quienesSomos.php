@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<?php include 'php/head.php'; ?>
+
+
+<body>
+    <?php include 'php/header.php'; ?>
+
+    <main>
+        <div id="quienesSomos" class="quienesSomos">
+            <div class="titulo-logo text-center">
+                <img class="img-fluid" src="./../assets/images/BROCHURE DI LUCA.png" alt="Diluca" >
+            </div>
+
+            <div class="container d-flex justify-content-between align-items-start mt-4">
+                <div class="texto-container w-50 pe-4">
+                    <h3>¿QUIÉNES SOMOS?</h3>
+                    <p>DI LUCA comienza su actividad en el año 1950 fundada por MARINO SIGNORINI, estableciéndose como empresa
+                        familiar,
+                        ofreciendo nuevos servicios que el mercado demandaba en esos tiempos, ya que empezaba una nueva era de
+                        la
+                        construcción y así se formalizarían diferentes empresas referidas al rubro.
+                        En la actualidad nos respaldan más de 50 años de trayectoria, siendo así,
+                        a partir de febrero del 2009, nos insertamos en un nuevo siglo para afrontar cambios dinámicos a nivel
+                        mundial:
+                        económicos, sociales, industriales y finalmente tecnológicos.
+                        DI LUCA posee principios y valores con basamentos en el respeto, compromiso, responsabilidad,
+                        cordialidad,
+                        calidez familiar y eficacia que radican en la confianza de nuestros clientes sostenida en el tiempo.
+                        El compromiso y búsqueda de la excelencia son las características que se encuentran siempre presentes en
+                        todos
+                        los miembros de la organización, para ello, contamos con un personal altamente calificado en todas las
+                        áreas
+                        llevando de esta forma calidad absoluta en la ejecución de cada obra.
+                    </p>
+                </div>
+
+                <div class="quienes-img w-50 d-grid gap-3">
+                    <div>
+                        <img class="imgPersona" src="./assets/images/personas/d1.png" alt="">
+                        <span>EDUARDO</span>
+                    </div>
+                    <div>
+                        <img class="imgPersona" src="./assets/images/personas/d2.png" alt="">
+                        <span>LUCAS</span>
+                    </div>
+                    <div>
+                        <img class="imgPersona" src="./assets/images/personas/d3.png" alt="">
+                        <span>AXEL</span>
+                    </div>
+                    <div>
+                        <img class="imgPersona" src="./assets/images/personas/d4.png" alt="">
+                        <span>MARCOS</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <?php include 'php/footer.php'; ?>
+    
+</body>
+
+</html>
+
