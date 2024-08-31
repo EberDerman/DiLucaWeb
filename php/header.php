@@ -10,7 +10,7 @@
         <li><a href="index.php">Inicio</a></li>
         <li><a href="quienesSomos.php">Quienes somos?</a></li>
 
-        <li class="dropdown"><a href="#"><span>Nuestras especializaciones</span> <i
+        <li class="dropdown"><a href="especializaciones.php"><span>Nuestras especializaciones</span> <i
               class="bi bi-chevron-down dropdown-indicator"></i></a>
           <ul>
             <li><a href="#">Demolicion</a></li>
