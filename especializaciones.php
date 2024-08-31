@@ -38,11 +38,11 @@
                     <div class="lista-container col-md-5 col-12">
                         <h3>Nuestras especializaciones</h3>
                         <ul>
-                            <li><a href="">*DEMOLICIÓN</a></li>
-                            <li><a href="">*HÍDRICAS</a></li>
-                            <li><a href="">*HORMIGONADO</a></li>
-                            <li><a href="">*MOVIMIENTO DE SUELOS</a></li>
-                            <li><a href="">*REMEDIACION DE SUELOS</a></li>
+                            <li><a href="demolicion.php">*DEMOLICIÓN</a></li>
+                            <li><a href="hidricas.php">*HÍDRICAS</a></li>
+                            <li><a href="hormigonado.php">*HORMIGONADO</a></li>
+                            <li><a href="movimientos.php">*MOVIMIENTO DE SUELOS</a></li>
+                            <li><a href="remediacion.php">*REMEDIACION DE SUELOS</a></li>
                         </ul>
                     </div>
 

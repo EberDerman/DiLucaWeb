@@ -1,0 +1,102 @@
+/*--------------------------------------------------------------
+# Demolicion
+--------------------------------------------------------------*/
+
+.titulo-logo .img-fluid {
+  margin-bottom: 20px;
+  /* Espacio debajo del logo */
+  height: 30vh;
+}
+
+
+.texto-container, .texto_front,.texto_espec {
+  max-width: 100%;
+  /* Asegurar que el contenedor de texto ocupe el ancho permitido */
+  border: solid 2px white;
+  border-radius: 50px;
+  padding: 30px;
+
+}
+
+.texto-container, .texto_front{
+  margin-bottom: 80px;
+  
+
+}
+
+
+.texto-container h3,h4 {
+  text-align: center;
+  padding-bottom: 20px;
+  color: yellow;
+}
+
+
+
+.back_titulo {
+   background-color: grey;
+  color: black;
+  padding: 15px 20px 0px 20px;
+  height: 120px;
+  z-index: -1;
+  border-radius: 30px;
+  width: auto;
+
+  display: flex; /* Activa Flexbox para alinear elementos */
+  justify-content: center; /* Centra el contenido horizontalmente */
+  align-items: flex-start; /* Alinea el contenido en la parte superior verticalmente */
+}
+
+
+.img_centro, .texto_front, .texto_espec{
+  position: relative;
+  
+  height: auto;
+  z-index: 2;
+  top: -70px
+}
+.img_centro, .texto_front{
+  max-width: 80%;
+}
+
+
+
+.back_texto {
+  position: relative;
+  max-width: 100%;
+  /* Asegurar que el contenedor de texto ocupe el ancho permitido */
+  border: solid 2px white;
+  border-radius: 50px;
+  padding: 50px;
+  top: -80px;
+  height: 100%;
+
+
+}
+
+
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+
+}
+.texto_front,.texto_espec{
+  
+  background-color: blue;
+
+}
+
+
+.custom-width {
+  width: 100%;
+  height: auto;
+}
+
+.texto_espec_container{
+  position: relative;
+  top:-50px;
+}
+
+

@@ -688,38 +688,5 @@ section {
 
 
 
+  
 
-/*--------------------------------------------------------------
-# Quienes somos
---------------------------------------------------------------*/
-
-
-.quienesSomos div img{
-  height: 30vh;
-}
-
-.quienes-img {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Crea una cuadrícula de 2 columnas */
-  gap: 20px; /* Espacio entre los elementos de la cuadrícula */
-  text-align: center; /* Centrar el texto debajo de las imágenes */
-}
-
-.quienes-img div {
-  display: flex;
-  flex-direction: column; /* Alinear las imágenes y los nombres en columna */
-  align-items: center; /* Centrar las imágenes y los nombres */
-}
-
-.imgPersona {
-  max-width: 100%;
-  height: auto; /* Asegurar que las imágenes sean responsivas */
-}
-
-.titulo-logo {
-  margin-bottom: 20px; /* Espacio debajo del logo */
-}
-
-.texto-container {
-  max-width: 100%; /* Asegurar que el contenedor de texto ocupe el ancho permitido */
-}

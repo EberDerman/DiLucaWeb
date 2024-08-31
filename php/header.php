@@ -13,11 +13,11 @@
         <li class="dropdown"><a href="especializaciones.php"><span>Nuestras especializaciones</span> <i
               class="bi bi-chevron-down dropdown-indicator"></i></a>
           <ul>
-            <li><a href="#">Demolicion</a></li>
-            <li><a href="#">Hidricas</a></li>
-            <li><a href="#">Hormigonado</a></li>
-            <li><a href="#">Movimientos de suelos</a></li>
-            <li><a href="#">Remedicion de suelos</a></li>
+            <li><a href="demolicion.php">Demolicion</a></li>
+            <li><a href="hidricas.php">Hidricas</a></li>
+            <li><a href="hormigonado.php">Hormigonado</a></li>
+            <li><a href="movimientos.php">Movimientos de suelos</a></li>
+            <li><a href="remediacion.php">Remedicion de suelos</a></li>
           </ul>
         </li>
         <li><a href="#recent-posts">Noticias</a></li>
